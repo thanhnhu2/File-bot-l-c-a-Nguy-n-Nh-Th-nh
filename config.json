@@ -1,20 +1,22 @@
 {
     "language": "vi",
     "keyActive": "",
-    "DeveloperMode": false,
+    "DeveloperMode": true,
     "autoCreateDB": true,
     "allowInbox": true,
-    "autoClean": false,
+    "autoClean": true,
+    "adminOnly": false,
+    "ndhOnly": false,
     "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Bot Mess",
-    "PREFIX": "/",
+    "BOTNAME": "bot của N.Thành cư tê",
+    "PREFIX": ">",
+    "NDH": [],
     "ADMINBOT": [
-        " ",
-        " "
+        "100054769571636"
     ],
     "DATABASE": {
         "sqlite": {
