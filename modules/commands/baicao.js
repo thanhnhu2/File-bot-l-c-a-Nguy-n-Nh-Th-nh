@@ -1,6 +1,6 @@
 module.exports.config = {
 	name: "baicao",
-	version: "1.0.2",
+	version: "1.0.1",
 	hasPermssion: 0,
 	credits: "CatalizCS //fix bug tiền by Jukie",
 	description: "Game bài cào dành cho nhóm có đặt cược",
