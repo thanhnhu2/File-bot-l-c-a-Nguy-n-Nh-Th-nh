@@ -1,7 +1,7 @@
  const num = 5 //số lần spam bị ban -1, ví dụ 5 lần gì lần 6 sẽ bị ban
  const timee = 60 // trong thời gian `timee` spam `num` lần sẽ bị ban
  module.exports.config = {
-  name: "spamban",
+  name: "banspam",
   version: "2.0.0",
   hasPermssion: 0,
   credits: "NTKhang", //fix get by  D-Jukie
