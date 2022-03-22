@@ -159,7 +159,7 @@ module.exports.run = async function({ api, event, args }) {
 		msg += `\n\n💦 𝘛𝘳𝘢𝘯𝘨【${page_num_input || 1}/${page_num_total}】`;
 		msg += `\n🍄 Để xem các trang khác, dùng: ${prefix}menu [số trang]`;
 		msg += `\n╭──────╮\n       Reply \n╰──────╯ tin nhắn theo số để xem các lệnh theo phân loại`;
-		msg += `\nBot được điều hành bởi min hay dỗi ♥️`;
+		msg += `\nBot được điều hành bởi Nguyễn Như Thành ♥️`;
 	}
 	var msgg = {body: msg, attachment: imgP}
 	return api.sendMessage(msgg, threadID, async (error, info) => {
